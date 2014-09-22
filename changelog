@@ -1,0 +1,5 @@
+2014-09-22 Alexey Hohlov <root@amper.me>
+
+	Init repository.
+
+	* gps.c - basic support for GPS chips.
